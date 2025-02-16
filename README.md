@@ -3,15 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saifur555&label=Profile%20views&color=0e75b6&style=flat" alt="saifur555" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saifur555" alt="saifur555" /></a> </p>
-
 - 🔭 I’m currently working on [LMS](https://github.com/SAIFUR555/LMS)
 
 - 🌱 I’m currently learning **CSS**
 
 - 💬 Ask me about **C#/java/C++**
 
-- 📫 How to reach me **saifurrahmans306@gmail.coom**
+- 📫 How to reach me **saifurrahmans306@gmail.com**
 
 - ⚡ Fun fact **Playing Game**
 
