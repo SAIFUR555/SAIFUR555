@@ -85,28 +85,19 @@ I am a Computer Science and Engineering student with a strong interest in softwa
 </table>
 <hr>
 <h2>📊 GitHub Analytics</h2>
-<div align="center">
-<p>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=SAIFUR555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
-      alt="GitHub Stats" 
-      width="48%" 
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAIFUR555&layout=compact&theme=tokyonight&hide_border=true" 
-      alt="Top Languages" 
-      width="48%" 
-    />
-  </p>
-<p>
-    <img 
-      src="https://streak-stats.demolab.com?user=SAIFUR555&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak" 
-      width="60%" 
-    />
-  </p>
-</div>
-<hr>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=SAIFUR555&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    alt="GitHub Stats" 
+    width="48%" 
+  />
+
+  <img 
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SAIFUR555&layout=compact&theme=tokyonight&hide_border=true" 
+    alt="Top Languages" 
+    width="48%" 
+  />
+</p>
 <h2>🌐 Connect with Me</h2>
 <div align="center">
 <a href="https://www.linkedin.com/" target="_blank">
