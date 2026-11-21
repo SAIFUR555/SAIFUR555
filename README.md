@@ -33,7 +33,7 @@ I am a Computer Science and Engineering student with a strong interest in softwa
 <p>
     <img 
       src="https://skillicons.dev/icons?i=c,cpp,java,cs,js,html,css" 
-      alt="C, C++, Java, C#, JavaScript, HTML, CSS" 
+      alt="C, C++, Java, C#, JavaScript, HTML, CSS, .Net Core MVC  " 
     />
   </p>
 <h3>Frontend & Backend</h3>
